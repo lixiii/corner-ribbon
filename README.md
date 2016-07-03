@@ -9,4 +9,4 @@ Example:
   <div class="corner-ribbon top-left blue">This is a corner ribbon!</a>
 ```
 
-<img src="http://image.prntscr.com/image/8b7fe901b07f4cd8935562dabb74015c.png">
+<img src="http://image.prntscr.com/image/94812fdf43224b9f8c424588ed0d5804.png">
