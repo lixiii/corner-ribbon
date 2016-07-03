@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Corner Ribbon</title>
+	<link href="corner-ribbon.css" rel="stylesheet" type="text/css">
+	
+	<style>
+		body {
+			height: 100%;
+			width: 100%;
+		}
+		h1,p {
+			font-family: 'Fjalla One', sans-serif;
+		}
+		.info-text {
+			margin: 0 auto 0 auto;
+			text-align: center;
+			width: 100%;
+			position: absolute;
+			top: 50%;
+			-webkit-transform: translateY(-50%);
+			-ms-transform: translateY(-50%);
+			transform: translateY(-50%);
+		}
+		a {
+			color: black;
+		}
+	</style>
+</head>
+<body>
+	<div class="corner-ribbon top-left gray">.top-left</div>
+	<div class="corner-ribbon top-right red shadow">.top-right + .shadow</div>
+	<div class="corner-ribbon bot-left green shadow">.bot-left + .shadow</div>
+	<div class="corner-ribbon bot-right blue">.bot-right</div>
+	
+	<div class="info-text">
+		<h1>Simple Corner Ribbons</h1>
+		<p>by Meik Menzel - <a href="https://wolfbyte.eu" target="_blank">Wolfbyte.eu</a></p>
+	</div>
+</body>
+</html>
