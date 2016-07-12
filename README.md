@@ -11,4 +11,4 @@ Example:
 
 <img src="http://image.prntscr.com/image/94812fdf43224b9f8c424588ed0d5804.png">
 
-<a href="https://wolfbyte.eu/projects/corner-ribbon/">Full Site example</a>
+<a href="https://wolfbyte.eu/projects/corner-ribbon/">Full Site example</div>
