@@ -1,6 +1,6 @@
 # corner-ribbon.css
 
-[![Throughput Graph](https://graphs.waffle.io/Wolfbyte-dev/corner-ribbon/throughput.svg)](https://waffle.io/Wolfbyte-dev/corner-ribbon/metrics/throughput)
+[![Stories in Ready](https://badge.waffle.io/Wolfbyte-dev/corner-ribbon.svg?label=ready&title=Ready)](http://waffle.io/Wolfbyte-dev/corner-ribbon)
 
 
 corner-ribbon.css is a simple css-file to add corner ribbons to your website.
