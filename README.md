@@ -1,8 +1,5 @@
 # corner-ribbon.css
 
-[![Stories in Ready](https://badge.waffle.io/Wolfbyte-dev/corner-ribbon.svg?label=ready&title=Ready)](http://waffle.io/Wolfbyte-dev/corner-ribbon)
-
-
 corner-ribbon.css is a simple css-file to add corner ribbons to your website.
 
 Its also my first open source file on GitHub, yay!
